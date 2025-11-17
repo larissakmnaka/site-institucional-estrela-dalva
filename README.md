@@ -1,27 +1,29 @@
-# Site institucional — Coletivo de Mulheres Estrela Dalva
+<h1 align="center"> Site Institucional </h1>
 
-Site estático em estilo blog institucional, reunindo as informações estratégicas do coletivo
-(roteiro disponível em `estrutura.txt`). Inclui navegação âncora, blocos de conteúdo, cards de
-apoio e chamada para contato.
+<p align="center">
+Fizemos um site para o nosso Projeto de Extensão da Graduação em Engenharia de Software. <br/>
+</p>
 
-## Estrutura
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
 
-- `index.html`: marcação principal com todas as seções solicitadas.
-- `styles.css`: estilos com layout responsivo, paleta quente e tipografia Work Sans.
-- `estrutura.txt`: briefing original fornecido pela equipe.
+<br>
 
-## Como visualizar
+<p align="center">
+  <img alt="site institucional" src="./assets/thumb.jpg" width="100%">
+</p>
 
-Abra o arquivo `index.html` diretamente no navegador ou use um servidor local simples:
+## 🚀 Tecnologias
 
-```bash
-cd /Users/Neri/www/site-institucional-estrela-dalva
-python3 -m http.server 3000
-```
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Depois acesse <http://localhost:3000>.
+- HTML e CSS
+- Git
 
+## 💻 Projeto
 
-## Créditos
+Um site institucional reunindo as informações do Projeto Estrela Dalva.
 
-Conteúdo fornecido pelo Coletivo de Mulheres Estrela Dalva.
+Desenvolvido por: Artur Neri e Larissa Nakamura.
