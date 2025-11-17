@@ -172,7 +172,7 @@ h4 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.75rem 1.4rem;
+  padding: 0.75rem 1rem;
   border-radius: 999px;
   font-weight: 600;
   border: none;
@@ -300,16 +300,20 @@ blockquote {
   margin-top: 2rem;
 }
 
+.impact {
+  margin-top: 2rem;
+}
+
 .impact__cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
+  gap: 2rem;
   margin-top: 1.5rem;
 }
 
 .impact__value {
   display: block;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: var(--primary);
 }
@@ -321,7 +325,7 @@ blockquote {
 .idealizadora__gallery {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1rem;
+  gap: 8rem;
 }
 
 .gallery {
