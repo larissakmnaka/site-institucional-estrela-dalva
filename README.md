@@ -1,7 +1,7 @@
 <h1 align="center"> Site Institucional </h1>
 
 <p align="center">
-Fizemos um site para o nosso Projeto de Extensão da Graduação em Engenharia de Software. <br/>
+Fizemos um site para o nosso Projeto de Extensão da Graduação em Engenharia de Software e Atividades Práticas do Tecnólogo em Análise e Desenvolvimento de Sistemas. <br/>
 </p>
 
 <p align="center">
